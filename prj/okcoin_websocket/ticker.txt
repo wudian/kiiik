@@ -1,0 +1,1 @@
+[{"data":{"result":true,"channel":"ok_sub_spotcny_btc_ticker"},"channel":"addChannel"}]

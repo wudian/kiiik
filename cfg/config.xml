@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Zhongan>
+    <Log>
+        <!--日志等级：LEVEL_OFF LEVEL_ERROR LEVEL_WARN LEVEL_INFO LEVEL_SUCCESS LEVEL_DEBUG-->
+        <Level>LEVEL_DEBUG</Level>
+        <MaxSize>1024000</MaxSize>
+        <MaxNum>100</MaxNum>
+        <AppendComsole>1</AppendComsole>
+    </Log>
+  
+  
+  
+</Zhongan>

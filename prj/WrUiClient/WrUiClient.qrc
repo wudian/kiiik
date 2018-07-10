@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/black.css</file>
+        <file>image/Font Awesome Cheatsheet.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/qt_zh_CN.qm</file>
+        <file>image/logo.png</file>
+    </qresource>
+</RCC>

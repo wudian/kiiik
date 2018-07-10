@@ -1,0 +1,4 @@
+day_atr_c1=./inifiles/day_atr_c1.ini
+hft_mr_c1=./inifiles/hft_mr_c1.ini
+hft_mr_ru=./inifiles/hft_mr_ru.ini
+mhilbert_ru=./inifiles/mhilbert_ru.ini

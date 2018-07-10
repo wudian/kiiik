@@ -1,0 +1,13 @@
+url /api/market/getMktFutd.csv?field=tradeDate,ticker,preClosePrice,preSettlePrice,openPrice,highestPrice,lowestPrice,closePrice,settlePrice,turnoverVol,turnoverValue,openInt&beginDate=&endDate=&secID=&ticker=ZC605&tradeDate=20151201
+
+
+
+
+url /api/market/getFutureTicksHistOneDay.csv?field=&callback=&instrumentID=a1001&date=20091231&startSecOffset=&endSecOffset=
+
+
+
+start https://gw.wmcloud.com/dataquery//CsvData.csv?pretty=true^&input=url%20%2Fapi%2Fmarket%2FgetFutureTicksHistOneDay.csv%3Ffield%3DdataDate%2CinstrumentID%2ClastPrice%2CpreSettlementPrice%2CprevClosePrice%2CpreOpenInterest%2CopenPrice%2ChighPrice%2ClowPrice%2Cvolume%2Cvalue%2CopenInterest%2CclosePrice%2CsettlementPrice%2CupperLimitPrice%2ClowerLimitPrice%2CdataTime%2CdataMillisec%2CbidPrice1%2CbidVolume1%2CaskPrice1%2CaskVolume1%2CclearingDay%26callback%3D%26instrumentID%3Dcu1601%26date%3D20151221%26startSecOffset%3D%26endSecOffset%3D^&secNum=0
+
+
+https://gw.wmcloud.com/dataquery//CsvData.csv?pretty=true&input=url%20%2Fapi%2Fmarket%2FgetFutureTicksHistOneDay.csv%3Ffield%3DdataDate%2CinstrumentID%2ClastPrice%2CpreSettlementPrice%2CprevClosePrice%2CpreOpenInterest%2CopenPrice%2ChighPrice%2ClowPrice%2Cvolume%2Cvalue%2CopenInterest%2CclosePrice%2CsettlementPrice%2CupperLimitPrice%2ClowerLimitPrice%2CdataTime%2CdataMillisec%2CbidPrice1%2CbidVolume1%2CaskPrice1%2CaskVolume1%2CclearingDay%26callback%3D%26instrumentID%3Dag1406%26date%3D20140531%26startSecOffset%3D%26endSecOffset%3D&secNum=0

@@ -1,0 +1,31 @@
+1.anaconda: https://www.continuum.io/downloads/
+sh Anaconda2-4.4.0-Linux-ppc64le.sh
+添加anaconda2/bin到~/.bashrc的PATH中
+conda install pymysql 等
+
+2.安装pyqt4
+依赖pyqt sip: wget http://nchc.dl.sourceforge.net/project/pyqt/sip/sip-4.14.1/sip-4.14.1.tar.gz
+tar -zxvf sip-4.14.1.tar.gz -C 
+python configure.py
+make
+make install
+依赖qt4.8.6: https://download.qt.io/archive/qt/4.8/4.8.6/
+wget https://download.qt.io/archive/qt/4.8/4.8.6/qt-everywhere-opensource-src-4.8.6.tar.gz
+./configure --prefix=安装目录
+make
+make install
+
+pyqt4:
+wget http://nchc.dl.sourceforge.net/project/pyqt/PyQt4/PyQt-4.9.5/PyQt-x11-gpl-4.9.5.tar.gz
+
+
+
+3.boost1.59 :  https://sourceforge.net/projects/boost/files/boost/1.59.0/
+wget https://sourceforge.net/projects/boost/files/boost/1.59.0/boost_1_59_0.tar.gz
+./bootstrap.sh
+./b2
+
+
+
+4.安装mysql
+cmake . -DCMAKE_INSTALL_PREFIX=/alidata1/admin/wudian/apps/mysql -DMYSQL_DATADIR=/alidata1/admin/wudian/apps/mysql/data -DWITH_BOOST=/alidata1/admin/wudian/install_packages/bak -DSYSCONFDIR=/alidata1/admin/wudian/apps/mysql/conf -DEFAULT_CHARSET=utf8mb4 -DDEFAULT_COLLATION=utf8mb4_general_ci -DENABLED_LOCAL_INFILE=1 -DEXTRA_CHARSETS=all
