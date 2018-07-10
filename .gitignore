@@ -19,7 +19,6 @@
 prj/*/Debug/
 
 bin/
-lib/
 data/
 log/
 *.log

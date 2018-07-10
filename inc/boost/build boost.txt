@@ -1,0 +1,4 @@
+b2.exe stage --toolset=msvc-12.0 --stagedir="D:\code\zhon_gan\inc\boost_1_59_0\boost\lib_vc120" link=static runtime-link=shared threading=multi debug release
+
+
+./b2 install --prefix=/alidata1/admin/wudian/apps link=static runtime-link=shared threading=multi

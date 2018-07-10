@@ -3,3 +3,8 @@ C:\Users\za-wudian\Desktop\kiiik2\prj\bin\Debug\wtpmduser_csharp_api.pdb
 C:\Users\za-wudian\Desktop\kiiik2\prj\api\wtpmduser_csharp_api\obj\Debug\wtpmduser_csharp_api.csprojResolveAssemblyReference.cache
 C:\Users\za-wudian\Desktop\kiiik2\prj\api\wtpmduser_csharp_api\obj\Debug\wtpmduser_csharp_api.dll
 C:\Users\za-wudian\Desktop\kiiik2\prj\api\wtpmduser_csharp_api\obj\Debug\wtpmduser_csharp_api.pdb
+D:\cpp_prj\kiiik\prj\bin\Debug\wtpmduser_csharp_api.dll
+D:\cpp_prj\kiiik\prj\bin\Debug\wtpmduser_csharp_api.pdb
+D:\cpp_prj\kiiik\prj\api\wtpmduser_csharp_api\obj\Debug\wtpmduser_csharp_api.csprojResolveAssemblyReference.cache
+D:\cpp_prj\kiiik\prj\api\wtpmduser_csharp_api\obj\Debug\wtpmduser_csharp_api.dll
+D:\cpp_prj\kiiik\prj\api\wtpmduser_csharp_api\obj\Debug\wtpmduser_csharp_api.pdb
